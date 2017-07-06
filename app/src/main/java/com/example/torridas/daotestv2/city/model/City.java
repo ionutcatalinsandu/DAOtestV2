@@ -148,4 +148,5 @@ public class City {
         this.daoSession = daoSession;
         myDao = daoSession != null ? daoSession.getCityDao() : null;
     }
+    //changes
 }
